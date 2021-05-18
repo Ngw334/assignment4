@@ -20,7 +20,8 @@ int main()
   cout<< "Give value n to print all the even no. between 1 and n : ";
   cin>> in1;
   cout<< endl;
-  return isEven(in1);
+  
+  isEven(in1);
 }
 
 
